@@ -1,0 +1,13 @@
+com/github/confluent/kafka/connect/smt/AppendVal$Value.class
+com/github/confluent/kafka/connect/smt/InsertTS$ConfigName.class
+com/github/confluent/kafka/connect/smt/AppendVal$Key.class
+com/github/confluent/kafka/connect/smt/InsertUuid.class
+com/github/confluent/kafka/connect/smt/InsertTS$Value.class
+com/github/confluent/kafka/connect/smt/AppendVal$ConfigName.class
+com/github/confluent/kafka/connect/smt/InsertTS$Key.class
+com/github/confluent/kafka/connect/smt/AppendVal.class
+com/github/confluent/kafka/connect/smt/InsertTS.class
+com/github/confluent/kafka/connect/smt/Test.class
+com/github/confluent/kafka/connect/smt/InsertUuid$Key.class
+com/github/confluent/kafka/connect/smt/InsertUuid$Value.class
+com/github/confluent/kafka/connect/smt/InsertUuid$ConfigName.class
